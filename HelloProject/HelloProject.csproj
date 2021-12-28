@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="document\2021-12-27 - Session 1.docx" />
+    <None Include="document\2021-12-27 - Session 1.pdf" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
